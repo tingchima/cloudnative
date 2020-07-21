@@ -1,0 +1,4 @@
+http:
+  mode: "debug"
+  address: ":13087"
+  app_id: "apigateway"
